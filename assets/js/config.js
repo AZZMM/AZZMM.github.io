@@ -3,13 +3,13 @@ const CONFIG = {
     'given_name': 'Mu',
     'family_name': 'Zhang',
     'avatar': {
-        'avatar': 'assets/data/M.svg',
-        'photo': 'assets/data/profile.jpg',
+        'avatar': 'assets/data/profile.jpg',
+        'photo': 'assets/data/M.svg',
         'photo_width': '260',
         'photo_height': '260',
     },
     'bio': 'Studying...',
-    'aboutme': 'I am a Ph.D. candidate of <a target="_blank" href="http://lamp.ucas.ac.cn/">LAMP Lab.</a> in <A href="https://sais.ucas.ac.cn/index.php/zh/">School of Advanced Interdisciplinary Sciences</A>, <a target="_blank" href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a>, advised by Prof. <a target="_blank" href="https://people.ucas.ac.cn/~qxye">Qixiang Ye</a>. I received my B.E. degree from the School of Automation Science and Electrical Engineering, Beihang University in 2023.<br>My research interests include <b>image generation</b> and <b>reinforcement learning</b>.',
+    'aboutme': 'I am a Ph.D. candidate of <a target="_blank" href="http://lamp.ucas.ac.cn/">LAMP Lab</a> in <A href="https://sais.ucas.ac.cn/index.php/zh/">School of Advanced Interdisciplinary Sciences</A>, <a target="_blank" href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a>, advised by Prof. <a target="_blank" href="https://people.ucas.ac.cn/~qxye">Qixiang Ye</a>. I received my B.E. degree from the School of Automation Science and Electrical Engineering, Beihang University in 2023.<br>My research interests include <b>image generation</b> and <b>reinforcement learning</b>.',
     'contact': {
         'location': 'Beijing',
         'mail': 'mailto:zhangmu23@mails.ucas.ac.cn',
